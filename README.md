@@ -134,12 +134,20 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,golang,bash,rust" style="animation: float 4s ease-in-out infinite;" />
+  </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=667EEA&center=true&width=400&lines=Web+%26+Database)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,php,mysql,postgres" style="animation: float 4s ease-in-out infinite 0.5s;" />
+</p>
+
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=4776E6&center=true&width=400&lines=Development+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,nginx" style="animation: float 4s ease-in-out infinite 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" style="animation: float 4s ease-in-out infinite 0.5s;" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=1E3C72&center=true&width=400&lines=Security+%26+Networking)](https://git.io/typing-svg)
