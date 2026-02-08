@@ -81,10 +81,12 @@
 ---
 
 <p align="center">
-  A passionate developer who loves to create <b>efficient solutions</b> and <b>beautiful interfaces</b>.<br/>
-  I believe in continuous learning and enjoy turning complex problems into simple solutions.<br/>
-  When I'm not coding, you can find me exploring new tech, reading, or working out 💪
+  🚀 <b>Full-Stack & Security Enthusiast</b><br/>
+  I build <b>efficient backend systems</b>, <b>sleek web interfaces</b>, and <b>powerful CLI tools</b>.<br/>
+  Passionate about learning new technologies, exploring <b>OSINT & cybersecurity</b>, and solving complex problems with clean, scalable solutions.<br/>
+  When I'm not coding, you can find me experimenting with security tools, reading tech articles, or optimizing my setups 💻⚡
 </p>
+
 
 ---
 
