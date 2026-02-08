@@ -251,18 +251,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/yourusername">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:youremail@example.com">
+      <a href="mailto:zenithxnecxus@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/yourusername">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -292,7 +282,7 @@
 </p> 
 
 <p align="center"> 
-  <i>Last updated: January 2026 • Always evolving, always coding ⚡</i> 
+  <i>Last updated: febuary 2026 • Always evolving, always coding ⚡</i> 
 </p> 
 <p align="center"> 
   <sub> 💻 Just a beginner grinding 💻 </sub> 
@@ -302,7 +292,7 @@
 </p>
 
 <p align="center" style="color:#888;">
-  Last Update • January 2026  
+  Last Update • febuary 2026  
 </p>
 
 <p align="center">
