@@ -150,7 +150,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=1E3C72&center=true&width=400&lines=Security+%26+Networking)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git" style="animation: float 4s ease-in-out infinite 1s;" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git,ubuntu" style="animation: float 4s ease-in-out infinite 1s;" />
 </p>
 
 </div>
