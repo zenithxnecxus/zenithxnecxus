@@ -17,7 +17,7 @@
     <td width="40%" align="center">
       <div style="position: relative; display: inline-block;">
         <img 
-          src="https://files.catbox.moe/bfyhia.png" 
+          src="https://files.catbox.moe/7ehaii.png" 
           width="180" 
           style="
             border-radius: 30px;
