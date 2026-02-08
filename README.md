@@ -138,7 +138,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=2A5298&center=true&width=400&lines=Programming+Languages)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,golang,bash,rust" style="animation: float 4s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=python,js,golang,bash,rust" style="animation: float 4s ease-in-out infinite;" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=4776E6&center=true&width=400&lines=Development+Tools)](https://git.io/typing-svg)
