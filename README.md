@@ -239,12 +239,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://cdn.prod.website-files.com/62718f9c6a29172c3f932088/67c4a0448d0c30516780f8f7_Screenshot%202025-03-02%20at%2012.15.15%20PM.png" 
-           width="500" 
-           style="border-radius: 10px; border: 3px solid #2a5298;" 
-           alt="Project Screenshot" />
-    </td>
   </tr>
 </table>
 
