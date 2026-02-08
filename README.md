@@ -17,7 +17,7 @@
     <td width="40%" align="center">
       <div style="position: relative; display: inline-block;">
         <img 
-          src="https://avatars.githubusercontent.com/u/yourusername" 
+          src="https://avatars.githubusercontent.com/u/zenithxnecxus" 
           width="220" 
           style="
             border-radius: 30px;
@@ -233,24 +233,16 @@
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/project1">
-        <img src="https://img.shields.io/badge/🚀_Fullstack_App-1e3c72?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/tools cli-1e3c72?style=for-the-badge" />
       </a>
       <br/>
-      <sub>React + Node.js + MongoDB</sub>
+      <sub>python + golang</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://img.shields.io/badge/🤖_AI_Tool-2a5298?style=for-the-badge" />
+        <img src="https://cdn.prod.website-files.com/62718f9c6a29172c3f932088/67c4a0448d0c30516780f8f7_Screenshot%202025-03-02%20at%2012.15.15%20PM.png" />
       </a>
       <br/>
-      <sub>Python + TensorFlow</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yourusername/project3">
-        <img src="https://img.shields.io/badge/📱_Mobile_App-4776E6?style=for-the-badge" />
-      </a>
-      <br/>
-      <sub>React Native + Firebase</sub>
+      <sub>golang/sub>
     </td>
   </tr>
 </table>
