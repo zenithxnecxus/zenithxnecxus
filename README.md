@@ -121,11 +121,6 @@
       <br/>
       <sub>Linux Essentials</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      <br/>
-      <sub>IT Support</sub>
-    </td>
   </tr>
 </table>
 
