@@ -24,29 +24,12 @@
             border-radius: 30px;
             border: 8px solid transparent;
             background: linear-gradient(45deg, #cc0000, #ff0000, #cc0000) border-box;
-            box-shadow: 
-              0 15px 35px rgba(204, 0, 0, 0.4),
-              0 0 50px rgba(255, 0, 0, 0.3),
-              inset 0 0 30px rgba(255, 255, 255, 0.1);
-            filter: 
-              drop-shadow(0 10px 20px rgba(204, 0, 0, 0.5))
-              brightness(1.05);
+            box-shadow: 0 15px 35px rgba(204, 0, 0, 0.4), 0 0 50px rgba(255, 0, 0, 0.3);
             animation: float 3s ease-in-out infinite;
           "
           alt="Profile Picture"
         />
-        <div style="
-          position: absolute;
-          top: -10px;
-          right: -10px;
-          background: linear-gradient(45deg, #cc0000, #ff0000);
-          color: white;
-          padding: 6px 12px;
-          border-radius: 15px;
-          font-size: 0.8em;
-          font-weight: bold;
-          animation: pulse 2s infinite;
-        ">
+        <div style="position: absolute; top: -10px; right: -10px; background: linear-gradient(45deg, #cc0000, #ff0000); color: white; padding: 6px 12px; border-radius: 15px; font-size: 0.8em; animation: pulse 2s infinite;">
           🟢 Active
         </div>
       </div>
@@ -54,25 +37,7 @@
   </tr>
 </table>
 
-<div style="
-  background: linear-gradient(90deg, #cc0000, #ff0000, #cc0000);
-  height: 4px;
-  width: 80%;
-  margin: 40px auto;
-  border-radius: 10px;
-  position: relative;
-  overflow: hidden;
-">
-  <div style="
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6), transparent);
-    animation: shine 3s infinite;
-  "></div>
-</div>
+<div style="background: linear-gradient(90deg, #cc0000, #ff0000, #cc0000); height: 4px; width: 80%; margin: 40px auto; border-radius: 10px;"></div>
 
 </div>
 
@@ -89,49 +54,6 @@
 
 ---
 
-<div align="center">
-
-## 🎓 **CERTIFICATIONS & ACHIEVEMENTS**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/EC_Council-CEH-ff0000?style=for-the-badge&logo=security&logoColor=white" />
-      <br/>
-      <sub>Certified Ethical Hacker</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Bugcrowd-Hunter-ff3333?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-      <br/>
-      <sub>Security Researcher</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HackerOne-Top_Ranked-ff0000?style=for-the-badge&logo=hackerone&logoColor=white" />
-      <br/>
-      <sub>Bug Bounty Hunter</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PortSwigger-Academy-ff3333?style=for-the-badge&logo=portswigger&logoColor=white" />
-      <br/>
-      <sub>Web Security Expert</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CompTIA-Security+-cc0000?style=for-the-badge&logo=comptia&logoColor=white" />
-      <br/>
-      <sub>Network Security</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Offensive_Security-OSCP-ff0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-      <br/>
-      <sub>Pentesting Certified</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## 🛠️ **TECH STACK**
 
 <div align="center">
@@ -139,25 +61,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=ff0000&center=true&width=400&lines=Security+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker" style="animation: float 4s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=ff3333&center=true&width=400&lines=Web+%26+API)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs" style="animation: float 4s ease-in-out infinite 0.5s;" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=cc0000&center=true&width=400&lines=Development+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" style="animation: float 4s ease-in-out infinite 0.5s;" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=990000&center=true&width=400&lines=Security+%26+Networking)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,docker,git" style="animation: float 4s ease-in-out infinite 1s;" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" />
 </p>
 
 </div>
@@ -169,24 +85,24 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenithxnecxus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=30,0a0a0a,1a1a1a&title_color=ff0000&text_color=fff&icon_color=ff0000" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenithxnecxus&show_icons=true&theme=radical&bg_color=30,0a0a0a,1a1a1a&title_color=ff0000&text_color=fff&icon_color=ff0000" />
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenithxnecxus&layout=compact&langs_count=8&theme=radical&bg_color=30,0a0a0a,1a1a1a&title_color=ff0000&text_color=fff" />
     </td>
-  </tr>
+   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenithxnecxus&theme=radical&background=0a0a0a&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" />
     </td>
-  </tr>
+   </tr>
 </table>
 
 </div>
 
-## 🎮 **CURRENT SETUP & INTERESTS**
+## 🎮 **CURRENT SETUP**
 
-<div align="center" style="margin: 50px 0;">
+<div align="center">
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark" /> </p>
 
@@ -220,7 +136,7 @@
 
 </div>
 
-## 📂 **PROJECT SHOWCASE**
+## 📂 **PROJECTS**
 
 <div align="center">
 
@@ -228,25 +144,17 @@
   <tr>
     <td align="center" width="50%">
       <h4>🔍 ZelinScanner</h4>
-      <p style="font-size: 0.9em; color: #666; margin: 10px 0;">
-        Advanced web vulnerability scanner with parameter discovery, fuzzing, and multi-target support.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python" width="60" />
-      </p>
+      <p>Advanced web vulnerability scanner with parameter discovery, fuzzing, and multi-target support.</p>
+      <p><img src="https://skillicons.dev/icons?i=python" width="60" /></p>
       <sub>⭐ 15+ vulnerability types | Multi-threading | WAF bypass</sub>
     </td>
     <td align="center" width="50%">
       <h4>🕵️ Broken Link Hijacker</h4>
-      <p style="font-size: 0.9em; color: #666; margin: 10px 0;">
-        Tool to find and hijack broken social media links for responsible disclosure.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python" width="60" />
-      </p>
+      <p>Tool to find and hijack broken social media links for responsible disclosure.</p>
+      <p><img src="https://skillicons.dev/icons?i=python" width="60" /></p>
       <sub>⭐ Instagram/Twitter/GitHub support | Auto-validation</sub>
     </td>
-  </tr>
+   </tr>
 </table>
 
 </div>
@@ -277,15 +185,13 @@
 
 </div>
 
-<p style="color: #666; margin-top: 30px; text-align: center;">
+<p align="center" style="color: #666; margin-top: 30px;">
   🔴 <i>Open for bug bounty collabs, security research, or just a chat about vulnerabilities!</i> 🔴
 </p>
 
-</div>
-
 ---
 
-<div align="center" style="margin-top: 60px;">
+<div align="center">
 
 ## ⚡ **THANK YOU FOR VISITING!** ⚡
 
@@ -298,7 +204,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Bugs_Found-50+-ff0000?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Certificates-10+-cc0000?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Tools_Built-5+-ff3333?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Tools_Built-5+-ff3333?style-for-the-badge" /> 
 </p>
 
 <p align="center"> 
