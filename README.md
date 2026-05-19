@@ -42,8 +42,8 @@ Saya percaya bahwa software yang bagus seharusnya **gratis, terbuka, dan bisa di
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyvora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=7c3aed&icon_color=4f46e5&text_color=e5e7eb" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyvora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=7c3aed&text_color=e5e7eb" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenithxnecxus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=7c3aed&icon_color=4f46e5&text_color=e5e7eb" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenithxnecxus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=7c3aed&text_color=e5e7eb" height="150" />
 </div>
 
 ---
