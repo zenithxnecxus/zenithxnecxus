@@ -3,8 +3,8 @@
   <h1>Zyvora</h1>
   <p><em>Membangun tools yang berguna, satu commit pada satu waktu.</em></p>
 
-  [![GitHub followers](https://img.shields.io/github/followers/zyvora?style=flat&color=6d28d9&labelColor=1a1a1a&label=followers)](https://github.com/zyvora)
-  [![GitHub stars](https://img.shields.io/github/stars/zyvora?style=flat&color=6d28d9&labelColor=1a1a1a&label=total%20stars)](https://github.com/zyvora)
+  [![GitHub followers](https://img.shields.io/github/followers/zenithxnecxus?style=flat&color=6d28d9&labelColor=1a1a1a&label=followers)](https://github.com/zyvora)
+  [![GitHub stars](https://img.shields.io/github/stars/zenithxnecxus?style=flat&color=6d28d9&labelColor=1a1a1a&label=total%20stars)](https://github.com/zyvora)
 </div>
 
 ---
@@ -19,7 +19,7 @@ Saya percaya bahwa software yang bagus seharusnya **gratis, terbuka, dan bisa di
 
 ## 🛠️ Proyek
 
-### [ZyConvert](https://github.com/zyvora/zyconvert)
+### [ZyConvert](https://github.com/zenithxnecxus/zyconvert)
 > Konversi file serba bisa yang berjalan langsung di browser — tanpa upload ke server, tanpa biaya.
 
 - 📄 Image ↔ PDF, Merge/Split/Compress PDF
